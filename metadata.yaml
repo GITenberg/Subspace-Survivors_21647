@@ -30,6 +30,8 @@ description: Renowned scientist and sci-fi author E.E. Smith created a number of
   beloved Subspace novels and stories. This piece offers an introduction to the series
   for newcomers, or for long-time fans who crave a slightly different perspective
   on the Subspace universe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21647#Subspace-Survivors
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-05-30'
 gutenberg_type: Text
