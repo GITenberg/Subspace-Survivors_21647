@@ -1,0 +1,46 @@
+_repo: Subspace-Survivors_21647
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Van Dongen, Henry Richard
+    - Dongen, H. R. Van
+    - Dongen, van
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Doc
+    - Smith, Edward Elmer
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: http://en.wikipedia.org/wiki/E._E._Smith
+description: Renowned scientist and sci-fi author E.E. Smith created a number of popular
+  narrative series over the course of his illustrious literary career, including the
+  beloved Subspace novels and stories. This piece offers an introduction to the series
+  for newcomers, or for long-time fans who crave a slightly different perspective
+  on the Subspace universe.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Subspace Survivors
+url: http://www.gutenberg.org/ebooks/21647
